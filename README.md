@@ -1,5 +1,9 @@
 # Blender and GIMP Projects  
-  
+  ----------------
+## Technology Used
+> - Blender 2.83
+> - GIMP 2.10.20
+----------------
 Renderred Images -  
 
 <img src="https://github.com/manushikapoor/Blender-Projects/blob/main/PROJECT/Renderred%20images/untitled2.png" align="center">  
